@@ -1,0 +1,35 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}  
+    /* start created page */
+.container img{
+     border-radius: 30px;
+     margin-left: 170px;
+     
+}    
+.container h2{
+    font-weight: 700;
+}
+.container a{
+    border-radius: 10px;
+}
+
+/* Start registar  */
+.parent-form form{
+    width: 100%;
+}
+.parent-form form input{
+    width: 100%;
+     border:solid  1px rgb(57, 153, 188);
+    border-radius: 10px;
+    position:relative;
+     margin-left: 7px;
+}
+.parent-form form i{
+    
+    position: absolute;
+    font-size: 17px;
+    left: 0;
+    color:rgb(59, 78, 154);
+    margin: 14px 0px;
+}
